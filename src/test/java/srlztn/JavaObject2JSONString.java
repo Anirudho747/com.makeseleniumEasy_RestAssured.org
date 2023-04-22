@@ -5,7 +5,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.File;
 import java.io.IOException;
 
-public class JavaObject2JSONObject {
+public class JavaObject2JSONString {
 
     public static void main(String[] args) throws IOException {
 
