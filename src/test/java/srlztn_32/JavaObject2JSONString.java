@@ -1,4 +1,4 @@
-package srlztn;
+package srlztn_32;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 

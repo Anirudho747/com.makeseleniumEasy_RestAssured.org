@@ -1,10 +1,9 @@
-package pojo2json;
+package pojo2json_30;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.testng.annotations.Test;
-import pojo2json.Employee;
 
 import java.util.ArrayList;
 import java.util.List;
